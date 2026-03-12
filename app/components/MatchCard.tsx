@@ -33,9 +33,9 @@ function CompBadge({ competition }: { competition: string }) {
   const isChampionsLeague = competition.includes('Şampiyonlar') || competition.includes('Champions')
   const isCup = competition.includes('Kupa')
   
-  let badgeStyle = 'bg-emerald-950/60 text-emerald-300 border-emerald-700/50' // Süper Lig
-  if (isChampionsLeague) badgeStyle = 'bg-blue-950/60 text-blue-300 border-blue-700/50'
-  else if (isCup) badgeStyle = 'bg-amber-950/60 text-amber-300 border-amber-700/50'
+  let badgeStyle = 'bg-emerald-950/70 text-emerald-300 border-emerald-700/50' // Süper Lig
+  if (isChampionsLeague) badgeStyle = 'bg-blue-950/70 text-blue-300 border-blue-700/50'
+  else if (isCup) badgeStyle = 'bg-amber-950/70 text-amber-300 border-amber-700/50'
   
   return (
     <span className={`text-[10px] font-black uppercase tracking-widest px-3 py-1 rounded-full border ${badgeStyle}`}>
