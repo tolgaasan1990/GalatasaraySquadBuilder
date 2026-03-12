@@ -1,0 +1,70 @@
+[
+  {
+    "id": "4-2-3-1",
+    "name": "4-2-3-1",
+    "positions": [
+      { "id": "gk", "x": 50, "y": 90, "label": "GK" },
+      { "id": "lb", "x": 22, "y": 70, "label": "LB" },
+      { "id": "cb1", "x": 40, "y": 75, "label": "CB" },
+      { "id": "cb2", "x": 60, "y": 75, "label": "CB" },
+      { "id": "rb", "x": 78, "y": 70, "label": "RB" },
+      { "id": "cdm1", "x": 38, "y": 55, "label": "CDM" },
+      { "id": "cdm2", "x": 62, "y": 55, "label": "CDM" },
+      { "id": "lw", "x": 22, "y": 30, "label": "LW" },
+      { "id": "cam", "x": 50, "y": 35, "label": "CAM" },
+      { "id": "rw", "x": 78, "y": 30, "label": "RW" },
+      { "id": "st", "x": 50, "y": 12, "label": "ST" }
+    ]
+  },
+  {
+    "id": "4-3-3",
+    "name": "4-3-3",
+    "positions": [
+      { "id": "gk", "x": 50, "y": 90, "label": "GK" },
+      { "id": "lb", "x": 22, "y": 70, "label": "LB" },
+      { "id": "cb1", "x": 40, "y": 75, "label": "CB" },
+      { "id": "cb2", "x": 60, "y": 75, "label": "CB" },
+      { "id": "rb", "x": 78, "y": 70, "label": "RB" },
+      { "id": "cm1", "x": 30, "y": 50, "label": "CM" },
+      { "id": "cdm", "x": 50, "y": 60, "label": "CDM" },
+      { "id": "cm2", "x": 70, "y": 50, "label": "CM" },
+      { "id": "lw", "x": 26, "y": 25, "label": "LW" },
+      { "id": "st", "x": 50, "y": 15, "label": "ST" },
+      { "id": "rw", "x": 74, "y": 25, "label": "RW" }
+    ]
+  },
+  {
+    "id": "4-4-2",
+    "name": "4-4-2",
+    "positions": [
+      { "id": "gk", "x": 50, "y": 90, "label": "GK" },
+      { "id": "lb", "x": 22, "y": 70, "label": "LB" },
+      { "id": "cb1", "x": 40, "y": 75, "label": "CB" },
+      { "id": "cb2", "x": 60, "y": 75, "label": "CB" },
+      { "id": "rb", "x": 78, "y": 70, "label": "RB" },
+      { "id": "lm", "x": 22, "y": 45, "label": "LM" },
+      { "id": "cm1", "x": 38, "y": 45, "label": "CM" },
+      { "id": "cm2", "x": 62, "y": 45, "label": "CM" },
+      { "id": "rm", "x": 78, "y": 45, "label": "RM" },
+      { "id": "st1", "x": 38, "y": 15, "label": "ST" },
+      { "id": "st2", "x": 62, "y": 15, "label": "ST" }
+    ]
+  },
+  {
+    "id": "3-5-2",
+    "name": "3-5-2",
+    "positions": [
+      { "id": "gk", "x": 50, "y": 90, "label": "GK" },
+      { "id": "cb1", "x": 28, "y": 75, "label": "CB" },
+      { "id": "cb2", "x": 50, "y": 75, "label": "CB" },
+      { "id": "cb3", "x": 72, "y": 75, "label": "CB" },
+      { "id": "lm", "x": 20, "y": 45, "label": "LWB" },
+      { "id": "cdm1", "x": 36, "y": 55, "label": "CDM" },
+      { "id": "cdm2", "x": 64, "y": 55, "label": "CDM" },
+      { "id": "cam", "x": 50, "y": 35, "label": "CAM" },
+      { "id": "rm", "x": 80, "y": 45, "label": "RWB" },
+      { "id": "st1", "x": 38, "y": 15, "label": "ST" },
+      { "id": "st2", "x": 62, "y": 15, "label": "ST" }
+    ]
+  }
+]

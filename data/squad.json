@@ -1,0 +1,177 @@
+[
+  {
+    "id": "ugurcan",
+    "name": "U. Çakır",
+    "number": 1,
+    "position": "GK",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/b01f563bd6e241e9a564b76e848111c6.jpeg"
+  },
+  {
+    "id": "batuhan",
+    "name": "B. Şen",
+    "number": 12,
+    "position": "GK",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/80d53c49330146afa35c10f2fb34aaf6.jpeg"
+  },
+  {
+    "id": "gunay",
+    "name": "G. Güvenç",
+    "number": 19,
+    "position": "GK",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/9f2fbb98af4b4b85accbc8c346733b96.jpeg"
+  },
+  {
+    "id": "davinson",
+    "name": "D. Sánchez",
+    "number": 6,
+    "position": "CB",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/188aa21b5064418bbc33552d1297d631.jpeg"
+  },
+  {
+    "id": "abdulkerim",
+    "name": "A. Bardakcı",
+    "number": 42,
+    "position": "CB",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/a14a76cd22fe4b13a5699fe6250ebcfc.jpeg"
+  },
+  {
+    "id": "kaan",
+    "name": "K. Ayhan",
+    "number": 23,
+    "position": "CB",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/8185c9586e88449cb8c6395d202d7ddd.jpeg"
+  },
+  {
+    "id": "metehan",
+    "name": "M. Baltacı",
+    "number": 3,
+    "position": "CB",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/189c12feb32547009b91f54cc6cca274.jpeg"
+  },
+  {
+    "id": "jakobs",
+    "name": "I. Jakobs",
+    "number": 4,
+    "position": "LB",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/637ede51bf6d45ccab9d14b2f8b053da.jpeg"
+  },
+  {
+    "id": "singo",
+    "name": "W. Singo",
+    "number": 90,
+    "position": "RB",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/0d9b6c615131487f995e23eacce13196.jpeg"
+  },
+  {
+    "id": "boey",
+    "name": "S. Boey",
+    "number": 93,
+    "position": "RB",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/b726cd271d7a45bd80ff9760c176b714.jpeg"
+  },
+  {
+    "id": "elmali",
+    "name": "E. Elmalı",
+    "number": 17,
+    "position": "LB",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/e743917ed48e4110bd309f73e660f606.jpeg"
+  },
+  {
+    "id": "torreira",
+    "name": "L. Torreira",
+    "number": 34,
+    "position": "CDM",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/265ddd32725646439e1fc7a0ba46ea13.jpeg"
+  },
+  {
+    "id": "gundogan",
+    "name": "İ. Gündoğan",
+    "number": 20,
+    "position": "CM",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/5fa7e266b72e4ded96002d89c10b9856.jpeg"
+  },
+  {
+    "id": "lemina",
+    "name": "M. Lemina",
+    "number": 99,
+    "position": "CM",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/440fcbca4c574f89b46846b7937e0813.jpeg"
+  },
+  {
+    "id": "sara",
+    "name": "G. Sara",
+    "number": 8,
+    "position": "CM",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/64cf8a1b1652499881d369707512b7fb.jpeg"
+  },
+  {
+    "id": "nhaga",
+    "name": "R. Nhaga",
+    "number": 74,
+    "position": "CM",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/df44e419d04446f8820a672b40234cd8.jpeg"
+  },
+  {
+    "id": "osimhen",
+    "name": "V. Osimhen",
+    "number": 45,
+    "position": "ST",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/f2eaded5761e4ac6b7292e29f1e141ea.jpeg"
+  },
+  {
+    "id": "icardi",
+    "name": "M. Icardi",
+    "number": 9,
+    "position": "ST",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/85904c440fc242d5be03538fdebee0c6.jpeg"
+  },
+  {
+    "id": "sane",
+    "name": "L. Sané",
+    "number": 10,
+    "position": "LW",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/4b3f3f32f9f34e1b9b95eeb77f0a754a.jpeg"
+  },
+  {
+    "id": "baris",
+    "name": "B. A. Yılmaz",
+    "number": 53,
+    "position": "RW",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/e368a518e7514312bbce5b4ecff73ea0.jpeg"
+  },
+  {
+    "id": "sallai",
+    "name": "R. Sallai",
+    "number": 7,
+    "position": "RW",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/393f3d418baa44a688366f3361d869f4.jpeg"
+  },
+  {
+    "id": "yunus",
+    "name": "Y. Akgün",
+    "number": 11,
+    "position": "LW",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/613ff3eacdee4240abbc6994bd35e6d4.jpeg"
+  },
+  {
+    "id": "kutucu",
+    "name": "A. Kutucu",
+    "number": 21,
+    "position": "ST",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/e20855ed74ca497eb75c7f89091cdb07.jpeg"
+  },
+  {
+    "id": "asprilla",
+    "name": "Y. Asprilla",
+    "number": 22,
+    "position": "RW",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/8436f1983ec04f339485a17ca5054034.jpeg"
+  },
+  {
+    "id": "noalang",
+    "name": "N. Lang",
+    "number": 77,
+    "position": "LW",
+    "photo": "https://hlkiurt3.rocketcdn.com/profiles/522bcabf55de490794c201ca17850b75.jpeg"
+  }
+]
