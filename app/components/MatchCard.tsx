@@ -116,7 +116,7 @@ export default function MatchCard({ id, opponent, opponentLogo, date, time, home
                 {home ? 'Galatasaray' : opponent}
               </span>
               <span className="text-[9px] sm:text-[10px] text-zinc-500 uppercase tracking-widest mt-0.5 flex items-center shrink-0">
-                <MapPin className="w-2.5 h-2.5 mr-1" /> {home ? 'İç Saha' : 'Deplasman'}
+                <MapPin className="w-2.5 h-2.5 mr-1" /> İç Saha
               </span>
             </div>
           </div>
@@ -135,7 +135,7 @@ export default function MatchCard({ id, opponent, opponentLogo, date, time, home
                 {home ? opponent : 'Galatasaray'}
               </span>
               <span className="text-[9px] sm:text-[10px] text-zinc-500 uppercase tracking-widest mt-0.5 flex items-center shrink-0">
-                <MapPin className="w-2.5 h-2.5 mr-1" /> {!home ? 'İç Saha' : 'Deplasman'}
+                <MapPin className="w-2.5 h-2.5 mr-1" /> Deplasman
               </span>
             </div>
             <div className="relative shrink-0 group-hover:scale-110 transition-transform duration-300">
